@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# nsight system profile files
+*.qdrep
+*.qdstrm
