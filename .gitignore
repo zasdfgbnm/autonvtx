@@ -131,3 +131,6 @@ dmypy.json
 # nsight system profile files
 *.qdrep
 *.qdstrm
+
+# convenient testing file
+/test.py
